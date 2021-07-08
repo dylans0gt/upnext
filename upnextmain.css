@@ -79,7 +79,8 @@ p {
 footer {
   text-align: center;
   padding: 3px;
-  background-color: DarkSalmon;
+  background-color: lightgray;
+  opacity: 0.4;
   color: white;
 }
 
