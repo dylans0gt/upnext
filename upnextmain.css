@@ -77,6 +77,8 @@ p {
 }
 
 iframe {
+	height: 500px;
+	width: 500px;
 	border: 2px solid #F64C72;
 }
 
