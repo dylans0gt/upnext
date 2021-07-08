@@ -79,8 +79,7 @@ p {
 footer {
   text-align: center;
   padding: 3px;
-  background-color: lightgray;
-  opacity: 0.8;
+  opacity: 0.9999;
   color: white;
 }
 
