@@ -55,25 +55,25 @@ a:hover {
 
 li {
 	list-style: none;
-	font-size: 20px;
+	font-size: 40px;
 }
 
 h1,h3 {
-	font-size: 45px;
+	font-size: 55px;
 	margin: 20px;
 }
 
 .new {
-	font-size: 25px;
+	font-size: 35px;
 }
 
 .music, .tech {
-	font-size: 30px;
+	font-size: 35px;
 }
 
 p {
 	margin: 20px;
-	font-size: 21px;
+	font-size: 31px;
 }
 
 iframe {
@@ -86,11 +86,11 @@ iframe {
 }
 
 .name {
-	font-size: 28px;
+	font-size: 33px;
 }
 
 .link {
-	font-size: 22px;
+	font-size: 30px;
 }
 
 @keyframes transitionIn {
