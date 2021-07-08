@@ -25,6 +25,7 @@ body {
     text-align: center;
     padding: 14px 16px;
     color: white;
+    font-size: 40px;
 }
 .nav-sen a:hover{
     background-color: #99738E;
@@ -44,7 +45,6 @@ body {
 a {
     text-decoration:none;
     color: white;
-    font-size: 30px;
 }
 a:hover {
 	color: skyblue;
