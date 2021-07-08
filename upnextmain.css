@@ -76,6 +76,13 @@ p {
 	font-size: 31px;
 }
 
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+
 iframe {
 	border: 2px solid #F64C72;
 }
